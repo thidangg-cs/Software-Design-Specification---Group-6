@@ -1,5 +1,5 @@
 # Movie Theater Ticketing Service---Group-6
-# Author: Thi Dang, Shayna Phan,
+# Author: Thi Dang, Shayna Phan, Liliana Yalda
 # System Description
 The Movie Theater Ticketing System is a web-based system that allows customers to search for movies, view showtimes, select available seats, and purchase movie tickets online. The system also allows customers to create accounts, view purchase history, manage tickets, and participate in the theater loyalty program.
 The system connects with a database, payment services, authentication services, and notification services. Customers can use the system through a web browser on a computer, tablet, or smartphone. The system supports different ticket types, including adult, child, senior, military, and student tickets. Customers can purchase a maximum of 20 tickets in one transaction.
